@@ -47,6 +47,10 @@ app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
+app.use('/', (req, res) => {
+    res.send('hello world')
+})
+
 const logger = require('./services/logger.service')
 const port = process.env.PORT || 3030
 http.listen(port, () => {
