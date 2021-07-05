@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cca4ab9.chunk.css",
-    "main.js": "/static/js/main.aaa615be.chunk.js",
-    "main.js.map": "/static/js/main.aaa615be.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a44aaec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a44aaec.js.map",
-    "static/js/2.efd49018.chunk.js": "/static/js/2.efd49018.chunk.js",
-    "static/js/2.efd49018.chunk.js.map": "/static/js/2.efd49018.chunk.js.map",
-    "static/js/3.139e9d9b.chunk.js": "/static/js/3.139e9d9b.chunk.js",
-    "static/js/3.139e9d9b.chunk.js.map": "/static/js/3.139e9d9b.chunk.js.map",
+    "main.css": "/static/css/main.bdd060e5.chunk.css",
+    "main.js": "/static/js/main.57533e4a.chunk.js",
+    "main.js.map": "/static/js/main.57533e4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4afdbfd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4afdbfd.js.map",
+    "static/js/2.963900d8.chunk.js": "/static/js/2.963900d8.chunk.js",
+    "static/js/2.963900d8.chunk.js.map": "/static/js/2.963900d8.chunk.js.map",
+    "static/js/3.bec116f2.chunk.js": "/static/js/3.bec116f2.chunk.js",
+    "static/js/3.bec116f2.chunk.js.map": "/static/js/3.bec116f2.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.3cca4ab9.chunk.css.map": "/static/css/main.3cca4ab9.chunk.css.map",
-    "static/js/2.efd49018.chunk.js.LICENSE.txt": "/static/js/2.efd49018.chunk.js.LICENSE.txt",
+    "static/css/main.bdd060e5.chunk.css.map": "/static/css/main.bdd060e5.chunk.css.map",
+    "static/js/2.963900d8.chunk.js.LICENSE.txt": "/static/js/2.963900d8.chunk.js.LICENSE.txt",
     "static/media/01.7747922d.mp3": "/static/media/01.7747922d.mp3",
     "static/media/01.8cf4fc9e.mp3": "/static/media/01.8cf4fc9e.mp3",
     "static/media/02.3a2b7191.mp3": "/static/media/02.3a2b7191.mp3",
@@ -115,6 +115,7 @@
     "static/media/ethiopia.5adb59e7.png": "/static/media/ethiopia.5adb59e7.png",
     "static/media/finish.7462c3e5.png": "/static/media/finish.7462c3e5.png",
     "static/media/geography-c.6d8a2acc.png": "/static/media/geography-c.6d8a2acc.png",
+    "static/media/google.cadee8cd.png": "/static/media/google.cadee8cd.png",
     "static/media/incomplete.5af21c95.png": "/static/media/incomplete.5af21c95.png",
     "static/media/israel.a4179e1a.png": "/static/media/israel.a4179e1a.png",
     "static/media/japan.e738b824.png": "/static/media/japan.e738b824.png",
@@ -133,9 +134,9 @@
     "static/media/wrong.0020306e.png": "/static/media/wrong.0020306e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a44aaec.js",
-    "static/js/2.efd49018.chunk.js",
-    "static/css/main.3cca4ab9.chunk.css",
-    "static/js/main.aaa615be.chunk.js"
+    "static/js/runtime-main.b4afdbfd.js",
+    "static/js/2.963900d8.chunk.js",
+    "static/css/main.bdd060e5.chunk.css",
+    "static/js/main.57533e4a.chunk.js"
   ]
 }
