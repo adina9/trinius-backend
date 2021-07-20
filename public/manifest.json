@@ -1,16 +1,16 @@
 {
-  "short_name": "template-react",
-  "name": "template react-cli",
+  "short_name": "Trinius",
+  "name": "Trinius",
   "prefer_related_applications": false,
   "icons": [
  
     {
-      "src": "logo192.png",
+      "src": "triviaLogo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "triviaLogo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
