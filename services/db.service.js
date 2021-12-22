@@ -8,7 +8,6 @@ module.exports = {
 
 // Database Name
 const dbName = 'triviaDB'
-
 var dbConn = null
 
 async function getCollection(collectionName) {
